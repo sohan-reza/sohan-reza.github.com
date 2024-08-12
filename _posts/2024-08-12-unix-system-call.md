@@ -16,7 +16,7 @@ _**System Call is nothing more than a function call !**_
 
 1. ইউজার মোড থেকে কনটেক্সট সুইচ: প্রোগ্রামটি সাধারণত "ইউজার মোডে" চলে। যখন এটি একটি সিস্টেম কল করে, তখন এটি "কর্নেল মোডে" স্যুইচ করে, যেখানে অপারেটিং সিস্টেমের কার্নেল পুরোপুরি নি়ন্ত্রণেথাকে।
 
-    ![memory-space](https://github.com/sohan-reza/sohan-reza.github.com/tree/master/images/kernel&user.png)
+    ![memory-space](https://github.com/sohan-reza/sohan-reza.github.com/blob/master/images/kernel%26user.png)
  
 
     "ইউজার মোডে" থাকা অবস্থায় প্রসেসর ইউজার স্পেস থেকে instruction execute করে এবং "কর্নেল মোডে" থাকা অবস্থায় প্রসেসর কর্নেলস্পেস থেকে instruction execute করে |  কর্নেল মোডে অপারেটিং সিস্টেমের সব কিছু অ্যাক্সেস করার permission থাকে | 
